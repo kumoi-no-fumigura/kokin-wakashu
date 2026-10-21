@@ -1,6 +1,7 @@
 {
  "work": "古今和歌集",
  "work_id": "kt-kokin",
+ "repo": "kumoi-no-fumigura/kokin-wakashu",
  "yomi": "こきんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -40,7 +41,7 @@
     5
    ],
    "no": 2,
-   "kotobagaki": "年の内に春はきに兒一年を去年とやいはむ今年とやいはむ春立ちける日よめる",
+   "kotobagaki": "春立ちける日よめる",
    "author": "紀貫之",
    "text": "袖ひぢて結びし水の氷れるを春たつけふの風やとくらむ",
    "sachu": ""
@@ -13353,6 +13354,5 @@
    "text": "道しらばつみにもゆかむ住の江の岸におふてふ戀忘れ草",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/kokin-wakashu"
+ ]
 }
